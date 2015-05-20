@@ -1,0 +1,7 @@
+git commit -m "message about the commit"
+git status
+
+git branch
+
+git checkout
+
